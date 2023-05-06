@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepak-gidwani
 - 👀 I’m interested in Problem Solving and Web Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on any MERN stack project
+- 🌱 I’m currently learning DRF
+- 💞️ I’m looking to collaborate on any django project
 - 📫 How to reach me just comment or let's connect on linkedin.
 
 <!---
